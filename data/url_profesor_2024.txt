@@ -1,4 +1,4 @@
-https://urnik.fov.um.si/Izvajalec/calendars/01---Bojan-Acko.icsgit
+https://urnik.fov.um.si/Izvajalec/calendars/01---Bojan-Acko.ics
 https://urnik.fov.um.si/Izvajalec/calendars/01---Olja-Arsenijevic.ics
 https://urnik.fov.um.si/Izvajalec/calendars/02---Alenka-Baggia.ics
 https://urnik.fov.um.si/Izvajalec/calendars/03---Zvone-Balantic.ics

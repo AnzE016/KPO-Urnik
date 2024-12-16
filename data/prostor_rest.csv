@@ -1,101 +1,101 @@
-id,naziv,kapaciteta,vrsta
-1,5,48,predavalnica
-2,15,48,predavalnica
-3,16,30,predavalnica
-19,109,4,kabinet
-4,111,247,predavalnica
-20,202,4,kabinet
-21,203,4,kabinet
-22,204,4,kabinet
-23,208,4,kabinet
-24,211,4,kabinet
-25,213,4,kabinet
-26,214,4,kabinet
-27,215,4,kabinet
-28,216,4,kabinet
-5,301,140,predavalnica
-6,302,48,predavalnica
-7,303,48,predavalnica
-29,304,4,kabinet
-30,305,4,kabinet
-8,306,126,predavalnica
-9,307,140,predavalnica
-31,308,4,kabinet
-50,309,4,kabinet
-10,401,40,predavalnica
-11,402,30,predavalnica
-12,403,30,predavalnica
-57,408,4,kabinet
-32,409,4,kabinet
-13,410,15,predavalnica
-14,411,15,predavalnica
-15,412,30,predavalnica
-16,413,40,predavalnica
-33,414,4,kabinet
-34,415,4,kabinet
-35,502,4,kabinet
-36,503,4,kabinet
-37,504,4,kabinet
-38,505,4,kabinet
-39,506,4,kabinet
-40,507,4,kabinet
-41,602,4,kabinet
-42,603,4,kabinet
-43,704,4,kabinet
-51,705,10,diplomska soba
-52,706,10,sejnaa soba
-44,707,10,kabinet
-45,801,4,kabinet
-46,803,4,kabinet
-47,804,4,kabinet
-48,805,4,kabinet
-49,806,4,kabinet
-17,1041,4,kabinet
-18,1042,4,kabinet
-53,Ekskurzija,50,Ekskurzija
-54,E-učilnica,200,E-učilnica
-55,MS Teams,200,MS Teams
-56,Nerazporejeno,200,predavalnica
-58,np 56,0,predavalnica
-59,np 58,0,predavalnica
-60,np 59,0,predavalnica
-61,np 60,0,predavalnica
-62,np 61,0,predavalnica
-63,np 62,0,predavalnica
-64,np 63,0,predavalnica
-65,np 64,0,predavalnica
-66,np 65,0,predavalnica
-67,np 66,0,predavalnica
-68,np 67,0,predavalnica
-69,np 68,0,predavalnica
-70,np 69,0,predavalnica
-71,np 70,0,predavalnica
-72,np 71,0,predavalnica
-73,np 72,0,predavalnica
-74,np 73,0,predavalnica
-75,np 74,0,predavalnica
-76,np 75,0,predavalnica
-77,np 76,0,predavalnica
-78,np 77,0,predavalnica
-79,np 78,0,predavalnica
-80,np 79,0,predavalnica
-81,np 80,0,predavalnica
-82,np 81,0,predavalnica
-83,np 82,0,predavalnica
-84,np 83,0,predavalnica
-85,np 84,0,predavalnica
-86,np 85,0,predavalnica
-87,np 86,0,predavalnica
-88,np 87,0,predavalnica
-89,np 88,0,predavalnica
-90,np 89,0,predavalnica
-91,np 90,0,predavalnica
-92,np 91,0,predavalnica
-93,np 92,0,predavalnica
-94,np 93,0,predavalnica
-95,np 94,0,predavalnica
-96,np 95,0,predavalnica
-97,np 96,0,predavalnica
-98,np 97,0,predavalnica
-99,np 98,0,predavalnica
-100,np 99,0,predavalnica
+id,naziv,kapaciteta,vrsta,,koledar,narekovaj
+1,5,48,predavalnica,update AR_PROSTOR set URNIK_URL ='https://urnik.fov.um.si/Ucilnica/calendars/005' where ID = 1,https://urnik.fov.um.si/Ucilnica/calendars/005,'
+2,15,48,predavalnica,,,
+3,16,30,predavalnica,,,
+19,109,4,kabinet,,,
+4,111,247,predavalnica,,,
+20,202,4,kabinet,,,
+21,203,4,kabinet,,,
+22,204,4,kabinet,,,
+23,208,4,kabinet,,,
+24,211,4,kabinet,,,
+25,213,4,kabinet,,,
+26,214,4,kabinet,,,
+27,215,4,kabinet,,,
+28,216,4,kabinet,,,
+5,301,140,predavalnica,,,
+6,302,48,predavalnica,,,
+7,303,48,predavalnica,,,
+29,304,4,kabinet,,,
+30,305,4,kabinet,,,
+8,306,126,predavalnica,,,
+9,307,140,predavalnica,,,
+31,308,4,kabinet,,,
+50,309,4,kabinet,,,
+10,401,40,predavalnica,,,
+11,402,30,predavalnica,,,
+12,403,30,predavalnica,,,
+57,408,4,kabinet,,,
+32,409,4,kabinet,,,
+13,410,15,predavalnica,,,
+14,411,15,predavalnica,,,
+15,412,30,predavalnica,,,
+16,413,40,predavalnica,,,
+33,414,4,kabinet,,,
+34,415,4,kabinet,,,
+35,502,4,kabinet,,,
+36,503,4,kabinet,,,
+37,504,4,kabinet,,,
+38,505,4,kabinet,,,
+39,506,4,kabinet,,,
+40,507,4,kabinet,,,
+41,602,4,kabinet,,,
+42,603,4,kabinet,,,
+43,704,4,kabinet,,,
+51,705,10,diplomska soba,,,
+52,706,10,sejnaa soba,,,
+44,707,10,kabinet,,,
+45,801,4,kabinet,,,
+46,803,4,kabinet,,,
+47,804,4,kabinet,,,
+48,805,4,kabinet,,,
+49,806,4,kabinet,,,
+17,1041,4,kabinet,,,
+18,1042,4,kabinet,,,
+53,Ekskurzija,50,Ekskurzija,,,
+54,E-učilnica,200,E-učilnica,,,
+55,MS Teams,200,MS Teams,,,
+56,Nerazporejeno,200,predavalnica,,,
+58,np 56,0,predavalnica,,,
+59,np 58,0,predavalnica,,,
+60,np 59,0,predavalnica,,,
+61,np 60,0,predavalnica,,,
+62,np 61,0,predavalnica,,,
+63,np 62,0,predavalnica,,,
+64,np 63,0,predavalnica,,,
+65,np 64,0,predavalnica,,,
+66,np 65,0,predavalnica,,,
+67,np 66,0,predavalnica,,,
+68,np 67,0,predavalnica,,,
+69,np 68,0,predavalnica,,,
+70,np 69,0,predavalnica,,,
+71,np 70,0,predavalnica,,,
+72,np 71,0,predavalnica,,,
+73,np 72,0,predavalnica,,,
+74,np 73,0,predavalnica,,,
+75,np 74,0,predavalnica,,,
+76,np 75,0,predavalnica,,,
+77,np 76,0,predavalnica,,,
+78,np 77,0,predavalnica,,,
+79,np 78,0,predavalnica,,,
+80,np 79,0,predavalnica,,,
+81,np 80,0,predavalnica,,,
+82,np 81,0,predavalnica,,,
+83,np 82,0,predavalnica,,,
+84,np 83,0,predavalnica,,,
+85,np 84,0,predavalnica,,,
+86,np 85,0,predavalnica,,,
+87,np 86,0,predavalnica,,,
+88,np 87,0,predavalnica,,,
+89,np 88,0,predavalnica,,,
+90,np 89,0,predavalnica,,,
+91,np 90,0,predavalnica,,,
+92,np 91,0,predavalnica,,,
+93,np 92,0,predavalnica,,,
+94,np 93,0,predavalnica,,,
+95,np 94,0,predavalnica,,,
+96,np 95,0,predavalnica,,,
+97,np 96,0,predavalnica,,,
+98,np 97,0,predavalnica,,,
+99,np 98,0,predavalnica,,,
+100,np 99,0,predavalnica,,,

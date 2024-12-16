@@ -1,102 +1,118 @@
-id,prostor_id,ime,priimek,naziv,email
-1,27,Alenka,Baggia,doc. dr.,alenka.baggia@um.si
-2,25,Zvone,Balantič,red. prof. dr.,zvone.balantic@um.si
-3,18,Mojca,Bernik,izr. prof. dr.,mojca.bernik@um.si
-4,46,Iztok,Bitenc,pred. mag.,iztok.bitenc@um.si
-5,41,Uršula,Bižič,univ. dipl. prav.,ursula.bizic@um.si
-6,22,Staša,Blatnik,asist.,stasa.blatnik1@um.si
-7,39,Alenka,Brezavšček,izr. prof. dr.,alenka.brezavscek@um.si
-8,24,Marina,Dežman,asist.,marina.dezman@um.si
-9,43,Marko,Ferjan,red. prof. dr.,marko.ferjan@um.si
-10,42,Barbara,Grabec,,barbara.grabec@um.si
-11,19,Sandra,Grubač,,sandra.grubac@um.si
-12,30,Eva,Jereb,red. prof. dr.,eva.jereb@um.si
-13,31,Janja,Jerebic,doc. dr.,janja.jerebic@um.si
-14,47,Tomaž,Kern,red. prof. dr.,tomaz.kern@um.si
-15,34,Mirjana,Kljajić Borštnar,red. prof. dr.,mirjana.kljajic@um.si
-16,45,Eva,Krhač Andrašec,asist. dr. mag.,eva.krhac1@um.si
-17,21,Gregor,Lenart,doc. dr.,gregor.lenart@um.si
-18,26,Robert,Leskovar,red. prof. dr.,robert.leskovar@um.si
-19,23,Damjan,Maletič,doc. dr.,damjan.maletic@um.si
-20,37,Matjaž,Maletič,doc. dr.,matjaz.maletic@um.si
-21,38,Miha,Marič,izr. prof. dr.,miha.maric@um.si
-22,22,Marjeta,Marolt,doc. dr.,marjeta.marolt@um.si
-23,45,Tilen,Medved,asist.,tilen.medved2@um.si
-24,17,Maja,Meško,red. prof. dr.,maja.mesko@um.si
-25,45,Dušan,Mežnar,doc. dr.,dusan.meznar@um.si
-26,17,Vesna,Novak,doc. dr.,vesna.novak@um.si
-27,32,Iztok,Podbregar,red. prof. dr.,iztok.podbregar@um.si
-28,20,Andreja,Pucihar,red. prof. dr.,andreja.pucihar@um.si
-29,33,Uroš,Rajkovič,izr. prof. dr.,uros.rajkovic@um.si
-30,40,Marjan,Senegačnik,doc. dr.,marjan.senegacnik@um.si
-31,29,Andrej,Škraba,red. prof. dr.,andrej.skraba@um.si
-32,46,Branislav,Šmitek,viš. pred. dr.,branislav.smitek@um.si
-33,28,Polona,Šprajc,red. prof. dr.,polona.sprajc@um.si
-34,35,Alenka,Tratnik,doc. dr.,alenka.tratnik@um.si
-35,49,Marko,Urh,viš. pred. dr.,marko.urh@um.si
-36,48,Benjamin,Urh,doc. dr.,benjamin.urh@um.si
-37,24,Bojana,Vasić,asist.,bojana.vasic1@um.si
-38,36,Goran,Vukovič,red. prof. dr.,goran.vukovic@um.si
-39,46,Borut,Werber,izr. prof. dr.,borut.werber@um.si
-40,18,Jasmina,Žnidaršič,doc. dr.,jasmina.znidarsic@um.si
-41,31,Anja,Žnidaršič,red. prof. dr.,anja.znidarsic@um.si
-42,56,Albin,Igličar,zasl. prof. dr.,albin.iglicar@guest.arnes.si
-43,56,Nevenka,Maher,izr. prof. dr.,nevnka.maher@guest.um.si
-44,45,Dušan,Mežnar,doc. dr.,dusan.meznar@um.si
-45,56,Davorin,Kofjač,izr. prof. dr.,davorin.kofjac@um.si
-46,50,Bojan,Vavtar,doc. dr.,bojan.vavtar@guest.um.si
-47,51,Teodora,Ivanuša,red. prof. ddr.,teodora.ivanusa@um.si
-48,56,Olja,Arsenijević,doc. dr.,olja.arsenijevic@guest.um.si
-49,56,Branka,Jarc Kovačič,viš. pred. mag.,branka.jarc-kovacic@guest.arnes.si
-50,56,Sandi,Knez,doc. dr.,sandi.knez1@guest.um.si
-51,56,Asistent,1,,
-52,56,Bojan,Knap,izr. prof. dr.,knap.bojan@kclj.si
-53,56,Klemen,Methans,mag.,
-54,56,Edvard,Kolar,red. prof. dr.,edvard.kolar@guest.um.si
-55,56,Rožle,Prezelj,prd. dr.,rozle.prezelj@gmail.com
-56,48,Matjaž,Roblek,doc. dr.,matjaz.roblek@guest.um.si
-57,39,Gregor,Rus,asist. dr.,gregor.rus4@guest.um.si
-58,56,Jerneja,Šifrer,Lecturer MSc,jerneja.sifrer@guest.um.si
-59,57,Nejc,Čelik,asist.,nejc.celik1@um.si
-60,56,Sonja,Šoštar Turk,red. prof. dr.,sonja.sostar@um.si
-61,56,Marina,Štros Bračko,,
-62,56,Mihaela,Štiglic,asist.,mihaela.stiglic@guest.um.si
-63,56,Doroteja,Vidmar,dr.,
-64,56,Janez,Žirovnik,doc. dr.,janez.zirovnik@guest.um.si
-65,56,Franc Željko,Županič,doc. dr.,francz.zupanic@guest.um.si
-66,56,Štefan,Žun,pred. dr.,stefan.zun@guest.um.si
-67,56,Asistent,2,,
-68,56,Suzana,Kraljić,izr. prof. dr.,suzana.kraljic@um.si
-69,56,Matjaž,Merc,doc. dr.,matjaz.merc@guest.um.si
-70,56,Jadranka,Stričević,izr. prof. dr.,jadranka.stricevic@um.si
-71,56,Asistent,3,,
-72,56,Blaž,Markelj,izr. prof. dr.,blaz.markelj@um.si
-73,56,Robi,Kelc,"doc. dr., dr. med.",robi.kelc@um.si
-74,56,Jana,Krivec,doc. dr.,jana.krivec@fuds.si
-75,56,Mojca,Dobnik,doc. dr.,mojca.dobnik@um.si
-76,56,Marija,Ovsenik,dr. dr. red. prof,
-78,56,Asistent,9,,
-79,56,Asistent,10,,
-80,56,Asistent,11,,
-81,56,Asistent,12,,
-82,56,Asistent,13,,
-83,56,Asistent,14,,
-84,56,Asistent,15,,
-85,56,Asistent,16,,
-86,56,Asistent,17,,
-87,56,Asistent,18,,
-88,56,Asistent,19,,
-89,56,Asistent,20,,
-90,56,Asistent,21,,
-91,56,Asistent,22,,
-92,56,Asistent,23,,
-93,56,Asistent,24,,
-94,56,Asistent,25,,
-95,56,Asistent,26,,
-96,56,Asistent,27,,
-97,56,Asistent,28,,
-98,56,Asistent,29,,
-99,56,Asistent,30,,
-100,56,Asistent,31,,
-77,56,Ksenija,Tušek Bunc,"dr. med., spec. druž. in sploš. med",
-103,4,Daša,Jakše, ,DASA.JAKSE@UM.SI
+id,prostor_id,ime,priimek,naziv,email,urnik_url,update,narekovaj
+122,56,Lucija,Gosak,,,,,
+124,56,Ajda,Šulc,,,,,
+125,56,Petra,Povalej Bržan,,,,,
+127,56,Urška,Rozman,,,,,
+128,56,Majda,Pajnkihar,,,,,
+132,56,Andrej,Lisec,,,,,
+134,56,Bojan,Ačko,,,,,
+1,27,Alenka,Baggia,doc. dr.,alenka.baggia@um.si,02---Alenka-Baggia,update AR_PROFESOR set URNIK_URL ='02---Alenka-Baggia'  where ID = 1,'
+2,25,Zvone,Balantič,red. prof. dr.,zvone.balantic@um.si,,,
+3,18,Mojca,Bernik,izr. prof. dr.,mojca.bernik@um.si,,,
+4,46,Iztok,Bitenc,pred. mag.,iztok.bitenc@um.si,,,
+5,41,Uršula,Bižič,univ. dipl. prav.,ursula.bizic@um.si,,,
+6,22,Staša,Blatnik,asist.,stasa.blatnik1@um.si,,,
+7,39,Alenka,Brezavšček,izr. prof. dr.,alenka.brezavscek@um.si,,,
+8,24,Marina,Dežman,asist.,marina.dezman@um.si,,,
+9,43,Marko,Ferjan,red. prof. dr.,marko.ferjan@um.si,,,
+10,42,Barbara,Grabec,,barbara.grabec@um.si,,,
+11,19,Sandra,Grubač,,sandra.grubac@um.si,,,
+12,30,Eva,Jereb,red. prof. dr.,eva.jereb@um.si,,,
+13,31,Janja,Jerebic,doc. dr.,janja.jerebic@um.si,,,
+14,47,Tomaž,Kern,red. prof. dr.,tomaz.kern@um.si,,,
+15,34,Mirjana,Kljajić Borštnar,red. prof. dr.,mirjana.kljajic@um.si,,,
+16,45,Eva,Krhač Andrašec,asist. dr. mag.,eva.krhac1@um.si,,,
+17,21,Gregor,Lenart,doc. dr.,gregor.lenart@um.si,,,
+18,26,Robert,Leskovar,red. prof. dr.,robert.leskovar@um.si,,,
+19,23,Damjan,Maletič,doc. dr.,damjan.maletic@um.si,,,
+20,37,Matjaž,Maletič,doc. dr.,matjaz.maletic@um.si,,,
+21,38,Miha,Marič,izr. prof. dr.,miha.maric@um.si,,,
+22,22,Marjeta,Marolt,doc. dr.,marjeta.marolt@um.si,,,
+23,45,Tilen,Medved,asist.,tilen.medved2@um.si,,,
+24,17,Maja,Meško,red. prof. dr.,maja.mesko@um.si,,,
+25,45,Dušan,Mežnar,doc. dr.,dusan.meznar@um.si,,,
+26,17,Vesna,Novak,doc. dr.,vesna.novak@um.si,,,
+27,32,Iztok,Podbregar,red. prof. dr.,iztok.podbregar@um.si,,,
+28,20,Andreja,Pucihar,red. prof. dr.,andreja.pucihar@um.si,,,
+29,33,Uroš,Rajkovič,izr. prof. dr.,uros.rajkovic@um.si,,,
+30,40,Marjan,Senegačnik,doc. dr.,marjan.senegacnik@um.si,,,
+31,29,Andrej,Škraba,red. prof. dr.,andrej.skraba@um.si,,,
+32,46,Branislav,Šmitek,viš. pred. dr.,branislav.smitek@um.si,,,
+33,28,Polona,Šprajc,red. prof. dr.,polona.sprajc@um.si,,,
+34,35,Alenka,Tratnik,doc. dr.,alenka.tratnik@um.si,,,
+35,49,Marko,Urh,viš. pred. dr.,marko.urh@um.si,,,
+36,48,Benjamin,Urh,doc. dr.,benjamin.urh@um.si,,,
+37,24,Bojana,Vasić,asist.,bojana.vasic1@um.si,,,
+38,36,Goran,Vukovič,red. prof. dr.,goran.vukovic@um.si,,,
+39,46,Borut,Werber,izr. prof. dr.,borut.werber@um.si,,,
+40,18,Jasmina,Žnidaršič,doc. dr.,jasmina.znidarsic@um.si,,,
+41,31,Anja,Žnidaršič,red. prof. dr.,anja.znidarsic@um.si,,,
+42,56,Albin,Igličar,zasl. prof. dr.,albin.iglicar@guest.arnes.si,,,
+43,56,Nevenka,Maher,izr. prof. dr.,nevnka.maher@guest.um.si,,,
+44,45,Dušan,Mežnar,doc. dr.,dusan.meznar@um.si,,,
+45,56,Davorin,Kofjač,izr. prof. dr.,davorin.kofjac@um.si,,,
+46,50,Bojan,Vavtar,doc. dr.,bojan.vavtar@guest.um.si,,,
+47,51,Teodora,Ivanuša,red. prof. ddr.,teodora.ivanusa@um.si,,,
+48,56,Olja,Arsenijević,doc. dr.,olja.arsenijevic@guest.um.si,,,
+49,56,Branka,Jarc Kovačič,viš. pred. mag.,branka.jarc-kovacic@guest.arnes.si,,,
+50,56,Sandi,Knez,doc. dr.,sandi.knez1@guest.um.si,,,
+51,56,Asistent,1,,,,,
+52,56,Bojan,Knap,izr. prof. dr.,knap.bojan@kclj.si,,,
+53,56,Klemen,Methans,mag.,,,,
+54,56,Edvard,Kolar,red. prof. dr.,edvard.kolar@guest.um.si,,,
+55,56,Rožle,Prezelj,prd. dr.,rozle.prezelj@gmail.com,,,
+56,48,Matjaž,Roblek,doc. dr.,matjaz.roblek@guest.um.si,,,
+57,39,Gregor,Rus,asist. dr.,gregor.rus4@guest.um.si,,,
+58,56,Jerneja,Šifrer,Lecturer MSc,jerneja.sifrer@guest.um.si,,,
+59,57,Nejc,Čelik,asist.,nejc.celik1@um.si,,,
+60,56,Sonja,Šoštar Turk,red. prof. dr.,sonja.sostar@um.si,,,
+61,56,Marina,Štros Bračko,,,,,
+62,56,Mihaela,Štiglic,asist.,mihaela.stiglic@guest.um.si,,,
+63,56,Doroteja,Vidmar,dr.,,,,
+64,56,Janez,Žirovnik,doc. dr.,janez.zirovnik@guest.um.si,,,
+65,56,Franc Željko,Županič,doc. dr.,francz.zupanic@guest.um.si,,,
+66,56,Štefan,Žun,pred. dr.,stefan.zun@guest.um.si,,,
+67,56,Asistent,2,,,,,
+68,56,Suzana,Kraljić,izr. prof. dr.,suzana.kraljic@um.si,,,
+69,56,Matjaž,Merc,doc. dr.,matjaz.merc@guest.um.si,,,
+70,56,Jadranka,Stričević,izr. prof. dr.,jadranka.stricevic@um.si,,,
+71,56,Asistent,3,,,,,
+72,56,Blaž,Markelj,izr. prof. dr.,blaz.markelj@um.si,,,
+73,56,Robi,Kelc,"doc. dr., dr. med.",robi.kelc@um.si,,,
+74,56,Jana,Krivec,doc. dr.,jana.krivec@fuds.si,,,
+75,56,Mojca,Dobnik,doc. dr.,mojca.dobnik@um.si,,,
+76,56,Marija,Ovsenik,dr. dr. red. prof,,,,
+78,56,Asistent,9,,,,,
+79,56,Asistent,10,,,,,
+80,56,Asistent,11,,,,,
+81,56,Asistent,12,,,,,
+82,56,Asistent,13,,,,,
+83,56,Asistent,14,,,,,
+84,56,Asistent,15,,,,,
+85,56,Asistent,16,,,,,
+86,56,Asistent,17,,,,,
+87,56,Asistent,18,,,,,
+88,56,Asistent,19,,,,,
+89,56,Asistent,20,,,,,
+90,56,Asistent,21,,,,,
+91,56,Asistent,22,,,,,
+92,56,Asistent,23,,,,,
+93,56,Asistent,24,,,,,
+94,56,Asistent,25,,,,,
+95,56,Asistent,26,,,,,
+96,56,Asistent,27,,,,,
+97,56,Asistent,28,,,,,
+98,56,Asistent,29,,,,,
+99,56,Asistent,30,,,,,
+100,56,Asistent,31,,,,,
+77,56,Ksenija,Tušek Bunc,"dr. med., spec. druž. in sploš. med",,,,
+129,56,Anja,Kozinc,,,,,
+130,56,Petra,Robnik,,,,,
+121,56,Dominika,Vrbnjak,,,,,
+123,56,Ivan,Eržen,,,,,
+126,56,Špela,Kajzer,,,,,
+131,56,Sebastjan,Merlo,,,,,
+133,56,Bojan,Borštner,,,,,
+135,56,Andreja,Lutar Škerbinjek,,,,,
+136,56,Gregor,Štiglic,,,,,
+103,4,Daša,Jakše, ,DASA.JAKSE@UM.SI,,,

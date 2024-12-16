@@ -34,7 +34,7 @@ def main():
     skup_rest_df = skupina_rest(url4)
 
 # beri+procesiraj ics ali beri csv
-    #urnik_df = ics_lista(1)
+    urnik_df = ics_lista(prof_rest_df)
     #urnik_df = pd.read_csv('urnik24.csv')
 
 if __name__ == "__main__":

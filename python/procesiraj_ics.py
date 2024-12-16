@@ -1,6 +1,30 @@
 # procesiraj_ics.py
+import os
+import requests
+from ics import Calendar
+#import json
+import pandas as pd
+#from thefuzz import fuzz
 
-def ics_lista(n):
+def highest_similarity(par1, par2):
+    max_similarity = 0
+    most_similar_string = ""
+    most_similar_id = None
+    equal_similarity = 0
+    
+    for index, row in par2.iterrows():
+        full_name = f"{row['ime']} {row['priimek']}"
+        similarity = fuzz.partial_ratio(par1, full_name)
+        if similarity == max_similarity:
+            equal_similarity = equal_similarity + 1
+        if similarity > max_similarity:
+            max_similarity = similarity
+            most_similar_string = full_name
+            most_similar_id = row['id']
+    
+    return most_similar_id, most_similar_string, max_similarity, equal_similarity
+    
+def ics_lista(prof_rest_df):
     # primer ics_url = 'https://urnik.fov.um.si/Izvajalec/calendars/21---Robert-Leskovar.ics'
     file_list = '../data/url_profesor_2024.txt'
     output_csv= '../data/urnik24.csv' 
@@ -48,7 +72,7 @@ def ics_from_url_to_dataframe(url):
     # Fetch the .ics file from the URL
     response = requests.get(url)
     if response.status_code != 200:
-        raise ValueError("Failed to fetch .ics file from URL")
+        raise ValueError("Failed to fetch .ics file from URL: ", url)
 
     # Parse the .ics content
     c = Calendar(response.text)
